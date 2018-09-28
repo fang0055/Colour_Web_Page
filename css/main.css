@@ -19,14 +19,14 @@ div,
 }
 
 html {
-    margin: 2.5rem;
+    margin: 2rem;
     font-size: 16px;
     font-family: 'web font', 'osx fallback', 'win fallback', sans-serif;
     line-height: 1.5;
 }
 
 header {
-    padding: 1.5rem 2.5rem;
+    padding: 2rem 2rem;
     height: 335px;
     background-image: url(../img/WechatIMG5.jpeg);
     background-size: cover;
